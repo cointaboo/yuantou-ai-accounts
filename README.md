@@ -129,3 +129,43 @@ AI 账号这个品类，价格从低到高排：拼车 < 独享号 < 代充/自�
 ## 许可
 
 本文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，欢迎转载与引用。
+
+<!-- 攻略深链索引 -->
+
+## 按问题查攻略
+
+下面每条对应一篇完整攻略，遇到具体问题直接点进去看：
+
+- [ChatGPT Plus / Pro 直充怎么开通、多久到账、掉了怎么办](https://yuantou.one/guide/chatgpt-plus-guide.html)
+- [ChatGPT Plus 国内怎么充值（实操）](https://yuantou.one/guide/chatgpt-plus-topup.html)
+- [ChatGPT Pro 5x / 20x / 50x 怎么选](https://yuantou.one/guide/chatgpt-pro-topup.html)
+- [Plus 拼车 / 共享号 / 买号 的风险对比](https://yuantou.one/guide/chatgpt-plus-shared-risk.html)
+- [Claude Pro 怎么订阅：价格、国内付款方式与替代方案](https://yuantou.one/guide/claude-pro-subscribe.html)
+- [Claude Code 平替方案对比](https://yuantou.one/guide/claude-code-alternatives.html)
+- [Codex 是什么？怎么开始用](https://yuantou.one/guide/codex-guide.html)
+- [Codex / ChatGPT 手机验证接码实操](https://yuantou.one/guide/codex-sms-verify.html)
+- [ChatGPT / OpenAI 注册与手机验证码实操](https://yuantou.one/guide/openai-account-register.html)
+- [ChatGPT、Claude、Gemini 怎么选：价格与能力对照](https://yuantou.one/guide/ai-account-choose.html)
+- [AI 账号防封 5 条铁律 + 3 个常见误区](https://yuantou.one/guide/ai-account-safety.html)
+- [AI 账号被封怎么办：封号原因与处理](https://yuantou.one/guide/ai-account-banned.html)
+- [海外 AI 服务充值：虚拟卡停服后还剩哪几条路](https://yuantou.one/guide/how-to-topup-ai-services.html)
+
+## 姊妹站
+
+- [chuhao.shop](https://chuhao.shop/) — 出号 — 成品账号与卡密直发
+
+## 官方价参考（2026-10-14 核对，单位：美元/月）
+
+| 服务 | 官方价 | 备注 |
+|---|---|---|
+| ChatGPT Plus | $20 | 官方帮助中心明确：仅支持月付，无年付 |
+| ChatGPT Pro 5x / 20x | $100 / $200 | 20x 档 2026-09-10 起暂停新购与升级 |
+| Claude Pro | $20 | 年付约 $17/月（$200/年）；Max 5x $100、Max 20x $200 |
+| Google AI Pro | $19.99 | 年付 $199.99；Google AI Ultra $99.99/月起 |
+
+> 以上为**官方标价**，不含税、不含代充服务费。标价随时可能变，下单前以官方页为准。
+
+
+---
+
+*本文档为公开信息整理，价格与政策以官方页面为准；本站攻略库持续更新。*
