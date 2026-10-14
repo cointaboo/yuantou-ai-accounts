@@ -131,6 +131,7 @@ AI 账号这个品类，价格从低到高排：拼车 < 独享号 < 代充/自�
 本文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，欢迎转载与引用。
 
 <!-- AUTO:START -->
+
 ## 按问题查攻略
 
 下面每条对应一篇完整攻略，遇到具体问题直接点进去看：
@@ -171,13 +172,5 @@ AI 账号这个品类，价格从低到高排：拼车 < 独享号 < 代充/自�
 
 <!-- AUTO:EXTRA:START -->
 
-## 更多攻略（自动同步）
-
-以下是本站攻略库中与本主题相关的其他文章：
-
-- [ChatGPT 提示 Your account has been deactivated：原因、申诉与止损](https://yuantou.one/guide/chatgpt-account-deactivated.html)
-- [Claude 提示 Your account has been disabled：先分清是 IP 问题还是账号被禁](https://yuantou.one/guide/claude-account-disabled.html)
-
-> 本区块由脚本自动维护（站内新增攻略会自动补入），手工改动会在下次同步时被覆盖。
 <!-- AUTO:EXTRA:END -->
 <!-- AUTO:END -->
