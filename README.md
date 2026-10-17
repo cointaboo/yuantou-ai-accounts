@@ -175,7 +175,10 @@ AI 账号这个品类，价格从低到高排：拼车 < 独享号 < 代充/自�
 
 以下是本站攻略库中与本主题相关的其他文章：
 
+- [2026 AI 服务提示「地区不支持」怎么解决：三层定位法](https://yuantou.one/guide/ai-service-region-limit.html)
 - [ChatGPT 提示 Your account has been deactivated：原因、申诉与止损](https://yuantou.one/guide/chatgpt-account-deactivated.html)
+- [2026 年 ChatGPT 会员怎么选：Plus 与 Pro 档位买家短清单](https://yuantou.one/guide/chatgpt-plan-shortlist.html)
+- [ChatGPT Plus / Pro 代充哪个平台靠谱？4 档真实价格与风险对照](https://yuantou.one/guide/chatgpt-plus-topup-platform.html)
 - [Claude 提示 Your account has been disabled：先分清是 IP 问题还是账号被禁](https://yuantou.one/guide/claude-account-disabled.html)
 
 > 本区块由脚本自动维护（站内新增攻略会自动补入），手工改动会在下次同步时被覆盖。
