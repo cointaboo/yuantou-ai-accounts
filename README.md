@@ -175,11 +175,30 @@ AI 账号这个品类，价格从低到高排：拼车 < 独享号 < 代充/自�
 
 以下是本站攻略库中与本主题相关的其他文章：
 
+- [AI 平台要求上传身份证或自拍验证：哪些情况会触发、怎么应对](https://yuantou.one/guide/ai-account-verify-id.html)
 - [2026 AI 服务提示「地区不支持」怎么解决：三层定位法](https://yuantou.one/guide/ai-service-region-limit.html)
+- [ChatGPT Pro 还是 Claude Max：同样是 200 美元档，怎么选](https://yuantou.one/guide/ai-subscription-cost-compare.html)
 - [ChatGPT 提示 Your account has been deactivated：原因、申诉与止损](https://yuantou.one/guide/chatgpt-account-deactivated.html)
-- [2026 年 ChatGPT 会员怎么选：Plus 与 Pro 档位买家短清单](https://yuantou.one/guide/chatgpt-plan-shortlist.html)
-- [ChatGPT Plus / Pro 代充哪个平台靠谱？4 档真实价格与风险对照](https://yuantou.one/guide/chatgpt-plus-topup-platform.html)
+- [OpenAI API 计费与付款失败：预付费、额度与常见拒付原因](https://yuantou.one/guide/chatgpt-api-billing.html)
+- [ChatGPT 账号被封后怎么导出自己的数据：入口、格式与时限](https://yuantou.one/guide/chatgpt-export-data.html)
+- [ChatGPT 会员怎么选：Plus 与 Pro 对照](https://yuantou.one/guide/chatgpt-plan-shortlist.html)
+- [ChatGPT Plus 付款被拒：7 个原因，按顺序排查](https://yuantou.one/guide/chatgpt-plus-payment-declined.html)
+- [ChatGPT 代充平台怎么选：4 档价格与风险对照](https://yuantou.one/guide/chatgpt-plus-topup-platform.html)
+- [ChatGPT Plus 续费失败怎么办：从余额、卡片到期到银行拦截逐项排查](https://yuantou.one/guide/chatgpt-renew-fail.html)
+- [ChatGPT Team 套餐值不值：按人头计价、额度与管理功能](https://yuantou.one/guide/chatgpt-team-plan.html)
+- [ChatGPT 提示 Too many requests：等多久、怎么避免再触发](https://yuantou.one/guide/chatgpt-too-many-requests.html)
 - [Claude 提示 Your account has been disabled：先分清是 IP 问题还是账号被禁](https://yuantou.one/guide/claude-account-disabled.html)
+- [Claude 提示 account suspended：和 disabled 有什么区别、怎么申诉](https://yuantou.one/guide/claude-account-suspended.html)
+- [Claude Duet 是什么：Pro/Max 里的主动式 Agent](https://yuantou.one/guide/claude-duet.html)
+- [Claude Max 用量限制怎么算：超额后会发生什么](https://yuantou.one/guide/claude-max-usage.html)
+- [Claude Pro 订阅付款被拒：常见原因与中国用户可操作的处理顺序](https://yuantou.one/guide/claude-payment-reject.html)
+- [Claude 提示 rate limit：免费版与付费版的限制差异](https://yuantou.one/guide/claude-rate-limit-hit.html)
+- [怎么判断 Claude 账号是否被地区限制：三个可自测的信号](https://yuantou.one/guide/claude-region-check.html)
+- [Gemini 提示在你所在国家不可用：判断是账号还是网络问题](https://yuantou.one/guide/gemini-not-available-country.html)
+- [用礼品卡给 ChatGPT 充值的注意事项：面额、地区与失败原因](https://yuantou.one/guide/giftcard-topup-risk.html)
+- [OpenAI 报错 insufficient_quota：额度用尽还是没绑卡](https://yuantou.one/guide/openai-insufficient-quota.html)
+- [OpenAI 提示 organization has been deactivated：组织被停用怎么处理](https://yuantou.one/guide/openai-organization-deactivated.html)
+- [OpenAI 接口报 429 Too Many Requests：限流规则与降速办法](https://yuantou.one/guide/openai-rate-limit-429.html)
 
 > 本区块由脚本自动维护（站内新增攻略会自动补入），手工改动会在下次同步时被覆盖。
 <!-- AUTO:EXTRA:END -->
